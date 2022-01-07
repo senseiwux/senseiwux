@@ -1,7 +1,7 @@
                                 S E N S E İ 
 
                       (c) 2001-2022 by van Hauser / THC
-             <vh@thc.org> https://github.com/vanhauser-thc/thc-hydra
+             <vh@thc.org> https://github.com/senseiwux
        many modules were written by David (dot) Maciejak @ gmail (dot) com
                  BFG code by Jan Dlabal <dlabaljan@gmail.com>
 
@@ -51,12 +51,12 @@ Your help in writing, enhancing or fixing modules is highly appreciated!! :-)
 WHERE TO GET
 ------------
 You can always find the newest release/production version of hydra at its
-project page at https://github.com/vanhauser-thc/thc-hydra/releases
+project page at https://github.com/senseiwux
 If you are interested in the current development state, the public development
 repository is at Github:
-  svn co https://github.com/vanhauser-thc/thc-hydra
+  svn co https://github.com/senseiwux
  or
-  git clone https://github.com/vanhauser-thc/thc-hydra
+  git clone https://github.com/senseiwux
 Use the development version at your own risk. It contains new features and
 new bugs. Things might not work!
 
